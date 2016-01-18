@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "0.0.001",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "gulp": "^3.8.11",
+    "gulp-babel": "^6.1.1",
+    "gulp-concat": "^2.6.0",
+    "run-sequence": "^1.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp",
+    "build": "gulp build"
+  },
+  "author": "PrimeLens",
+  "license": ""
+}
